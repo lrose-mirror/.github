@@ -1,4 +1,4 @@
-# lrose-mirror GitHub organization
+# lrose-mirror organization on GitHub
 
 This is a read-only mirror of the LROSE repositories in the NCAR organization.
 
@@ -8,5 +8,5 @@ The repositories are mirrored automatically when changes are made to the NCAR re
 
 This is not a code development site.
 
-All code development occurs in the NCAR organization.
+All code development occurs within the NCAR organization.
 
