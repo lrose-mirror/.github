@@ -1,5 +1,5 @@
 > ⚠️ This organization hosts **automated mirrors** of upstream repositories.  
-> Development typically occurs in the original upstream repositories.
+> Development only occurs in the original upstream repositories.
 
 # lrose-mirror
 
@@ -144,7 +144,7 @@ This mirror organization was established and is currently maintained by:
 
 **Mike Dixon**
 
-Formerly of the National Center for Atmospheric Research (NCAR).
+of the National Center for Atmospheric Research (NCAR).
 
 ---
 
