@@ -36,22 +36,41 @@ Repositories currently mirrored include:
 
 ## NCAR LROSE repositories
 
-Examples include:
-
-- `lrose-core`
-- `lrose-docs`
-- `lrose-titan`
-- `lrose-netcdf`
+- `homebrew-lrose`
 - `lrose-bootstrap`
+- `lrose-cedric`
+- `lrose-circleci`
+- `lrose-core`
+- `lrose-data-examples`
 - `lrose-devel`
+- `lrose-displays`
+- `lrose-docs`
+- `lrose-ecco`
+- `lrose-emerald`
+- `lrose-examples`
+- `lrose-field-catalog`
+- `lrose-geolib`
+- `lrose-grid2ps`
+- `lrose-netcdf`
+- `lrose-nexrad`
+- `lrose-paper-volscan-timing`
+- `lrose-projects-eolbase`
+- `lrose-projects-lakevic`
+- `lrose-projects-precip`
+- `lrose-projects-relampago`
 - `lrose-refract`
+- `lrose-reorder`
+- `lrose-sgci`
+- `lrose-solo-python`
 - `lrose-solo3`
 - `lrose-soloii`
 - `lrose-sysview`
+- `lrose-test`
+- `lrose-titan`
+- `lrose-uw-general`
+- `lrose-uw-olympex`
 
-and others.
-
-## Additional related projects
+## Mirrored related repos from MMBELL:
 
 These repositories are also mirrored because they are widely used within the LROSE ecosystem:
 
